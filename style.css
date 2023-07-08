@@ -564,7 +564,10 @@ justify-content: flex-start;
 gap: 10px;
 /* background-color: red; */
 padding: 3px;
-text-wrap: balance;
+}
+
+.song-title{
+    text-wrap: balance;
 }
 
 .heart-icon{
